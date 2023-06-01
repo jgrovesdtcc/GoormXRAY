@@ -6,8 +6,6 @@
 
 ## 食用方法
 
-博客图文教程：https://owo.misaka.rest/goormide-xray/
-
 1. 注册并登录Goorm账号
 2. 创建一个Container
 3. 输入容器名称、选择地区，Slack选择blank，点击创建按钮创建容器
@@ -31,7 +29,7 @@ wget -N https://raw.githubusercontent.com/Misaka-blog/GX/master/misaka.sh && bas
 ```
 地址：IP
 端口：转发的端口
-默认UUID：8d4a8f5e-c2f7-4c1b-b8c0-f8f5a9b6c384
+默认UUID：db30afd6-0087-11ee-be56-0242ac120002
 vmess额外id：0
 加密：auto 或 none
 传输协议：ws
