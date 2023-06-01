@@ -20,10 +20,10 @@ yellow() {
 clear
 echo "#############################################################"
 echo -e "#                 ${RED} Goorm Xray 一键安装脚本${PLAIN}                  #"
-echo -e "# ${GREEN}作者${PLAIN}: Misaka No                                           #"
-echo -e "# ${GREEN}网址${PLAIN}: https://owo.misaka.rest                             #"
-echo -e "# ${GREEN}论坛${PLAIN}: https://vpsgo.co                                    #"
-echo -e "# ${GREEN}TG群${PLAIN}: https://t.me/misakanetcn                            #"
+echo -e "# ${GREEN}作者${PLAIN}: xxx                                           #"
+echo -e "# ${GREEN}网址${PLAIN}: xxx                             #"
+echo -e "# ${GREEN}论坛${PLAIN}: xxx                                    #"
+echo -e "# ${GREEN}TG群${PLAIN}: xxx                            #"
 echo "#############################################################"
 echo ""
 
@@ -90,7 +90,7 @@ EOF
     nohup ./railgun -config=kazari.json &>/dev/null &
     green "Goorm Xray 已安装完成！"
     yellow "请认真阅读项目说明文档，配置端口转发！"
-    yellow "别忘记给项目点一个免费的Star！"
+    yellow "xxx！"
 else
     red "已取消安装，脚本退出！"
     exit 1
